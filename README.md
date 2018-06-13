@@ -8,8 +8,7 @@ This is a simple game of rock paper scissors against the computer in Python. The
 ### Terminal
 1. Open your command-line interpreter of choice (`cmd` or `terminal`)
 2. First make the file with the following operations:  
-  i. Type in `python rockpaperscissor.py` to run the file  
-  ii. Now type in `./exe` to run the file on your CLI
+  i. Type in `python rockpaperscissor.py` to run the file
 3. Play and Enjoy!
 
 ### Python IDLE
