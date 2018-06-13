@@ -1,0 +1,5 @@
+Bash command:
+python rockpaperscissor.py
+
+IDLE:
+Run with IDLE
